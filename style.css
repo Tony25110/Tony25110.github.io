@@ -1,0 +1,14 @@
+
+  body {
+    background-image: url("białe_wzorki.jpg");
+    font-family: Arial;
+    text-align: center;
+    margin:auto
+  }
+
+h1{
+  font-size: 100px;
+}
+h3{
+  font-size: 40px;
+}
